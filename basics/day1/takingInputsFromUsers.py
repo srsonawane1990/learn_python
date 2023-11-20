@@ -1,4 +1,4 @@
-n1 = int(input("Enter the value : ")) # it will read all values as string
+n1 = int(input("Enter the value : ")) # it will read all values as interger
 print(n1)
 n2 = input("Enter the value : ")
 print(n2)

@@ -1,6 +1,6 @@
 s1 = 'Hello'
 s2 = "Hello"
-#multiline string
+# Multiline strings
 s3 = '''This line 1
 line 2
 line 3'''
