@@ -1,0 +1,5 @@
+t1 = tuple([1,2,3,4])
+print(t1)
+print(type(t1))
+t2 = tuple(range(5))
+print(t2)

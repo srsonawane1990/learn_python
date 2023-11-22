@@ -1,4 +1,4 @@
-# Saama emp condition
+# Company emp condition
 # 1. candidate must be graduate
 # 2. must be 21 years old atleast
 
