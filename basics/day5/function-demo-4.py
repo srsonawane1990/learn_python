@@ -1,7 +1,7 @@
 print("Hi")
 print("Hi","Hello")
 print("Hi","Hello","Welcome")
-print("Hi","Hello", "Welcome", "Saama")
+print("Hi","Hello", "Welcome", "India")
 
 # Write function which will add n numbers
 
