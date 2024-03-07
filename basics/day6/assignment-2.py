@@ -1,0 +1,1 @@
+# Count the occurance of each word in the file

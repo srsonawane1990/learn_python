@@ -13,4 +13,3 @@ while i < n:
     print(ls[i])
     i += 1
 
-        
