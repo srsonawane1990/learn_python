@@ -63,3 +63,6 @@ import random
 
 print(random.randint(1, 100))
 print(random.choice([1, 2, 3, 4, 5]))
+
+# Several libraries like sqlite3 (for SQLite databases) or psycopg2 (for PostgreSQL)
+# allow you to connect to databases, execute queries, and retrieve data.
