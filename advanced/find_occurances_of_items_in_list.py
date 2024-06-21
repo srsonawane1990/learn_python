@@ -10,6 +10,6 @@ def count_occurance(lst1):
 lst1 = [1,2,3,2,3,44,5,23,23,22,3,4,2,3]
 
 occrances = count_occurance(lst1)
-
+print(occrances.items())
 for item, count in occrances.items():
     print(f"{item}: {count} occurances ")

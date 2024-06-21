@@ -261,7 +261,7 @@ print(T1.version)
 
 # A Sample class with init method
 class Data:
- 
+
     # init method or constructor
     def __init__(self, name):
         self.name = name
@@ -269,7 +269,7 @@ class Data:
     # Sample Method
     def say_hi(self):
         print('Hello, my name is', self.name)
- 
+
  
 p = Data('PowerBI')
 p.say_hi()
@@ -355,4 +355,14 @@ else:
     print("Integer Accepted.")
 finally:
     print("This block is always executed.")
+
+
+## decoratior
+# property
+
+## OOPS ke main Pillers:
+# Abstraction
+# Encapsulation
+# Inherritance
+# Polymorphism: When the same operator to have different meaning acording to context
 
